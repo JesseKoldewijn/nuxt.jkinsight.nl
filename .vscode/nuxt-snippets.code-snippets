@@ -1,0 +1,7 @@
+{
+  "Nuxt3 Script-tag": {
+    "prefix": ["script", "ns"],
+    "body": ["<script setup lang='ts'>\n${1}\n</script>"],
+    "description": "A base typescript component script tag."
+  }
+}
